@@ -2,4 +2,6 @@ first leanr git:
 Git is a version conrot system
 Git is a free software
 2018-12-10
-say happy birthday to KeyXin
+Say happy birthday to KeyXin
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
